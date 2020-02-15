@@ -4,8 +4,13 @@ font-family: "IBM Plex Mono";
 src: url("/src/fonts/IBMPlexMono-Regular.otf");
 }
 
+@font-face {
+font-family: "IBM Plex Mono";
+src: url("/src/fonts/IBMPlexMono-Regular.otf");
+}
+
 html {width: 100%;}
-body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono';}
+body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono Regular';}
 p {color: #61BC99; font-size: 2vw; line-height: 1.4;}
 a {color: #61BC99; text-decoration: none; border-bottom: 5px solid #6DFCB0;}
 a:hover {color: #61BC99;}
