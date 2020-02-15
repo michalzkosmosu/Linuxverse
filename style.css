@@ -1,6 +1,5 @@
 
-@font-face {font-family: "IBM Plex Mono"; src: url("/home/michal/Pobrane/linuxverse/src/fonts/IBM-Plex-Mono/IBMPlexMono-Medium.otf
-") format("otf");}
+@font-face {font-family: "IBM Plex Mono"; src: url("/home/michal/Pobrane/linuxverse/src/fonts/IBM-Plex-Mono/IBMPlexMono-Medium.otf") format("otf");}
 
 html {width: 100%;}
 body {background-color: #000000; padding-left: 2%; padding-right: 2%;}
