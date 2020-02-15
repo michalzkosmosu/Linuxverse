@@ -13,5 +13,3 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 p {font-size: 4vw;}
 }
-
-.new {column-count: 2;}
