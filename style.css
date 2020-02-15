@@ -5,4 +5,4 @@ a:hover {color: #61BC99;}
 a:visited {color: #61BC99;}
 h1 {color: #6DFCB0;}
 .author, .author a {color: #6DFCB0;}
-img {width: 100%;}
+img {max-width: 100%;}
