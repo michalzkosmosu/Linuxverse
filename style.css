@@ -6,7 +6,7 @@ a:hover {color: #61BC99;}
 a:visited {color: #61BC99;}
 h1 {color: #6DFCB0;font-size: 8vw;}
 .author, .author a {color: #6DFCB0;}
-img {max-width: 100%;}
+img {max-width: 100%; box-shadow: 3px 3px 8px 2px #666;}
 
 @media only screen 
 and (min-device-width : 320px) 
