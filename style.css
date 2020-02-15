@@ -1,0 +1,7 @@
+body {background-color: #000000; padding-left: 10%; padding-right: 10%; width: 1000px;}
+p {color: #61BC99; font-size: 20px;}
+a {color: #61BC99;}
+a:hover {color: #61BC99;}
+a:visited {color: #61BC99;}
+h1 {color: #6DFCB0;}
+.author, .author a {color: #6DFCB0;}
