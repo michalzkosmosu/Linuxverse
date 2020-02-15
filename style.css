@@ -11,7 +11,7 @@ p {color: #61BC99; font-size: 2vw;}
 a {color: #61BC99; text-decoration: none; border-bottom: 5px solid #6DFCB0;}
 a:hover {color: #61BC99;}
 a:visited {color: #61BC99;}
-h1 {color: #6DFCB0;font-size: 8vw;}
+h1 {color: #6DFCB0;font-size: 8vw; font-family: 'IBM Plex Mono';}
 .author, .author a {color: #6DFCB0;}
 img {max-width: 100%; border: 5px solid #6DFCB0;}
 
