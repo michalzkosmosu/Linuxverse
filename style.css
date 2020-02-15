@@ -10,13 +10,13 @@ src: url("/src/fonts/IBMPlexMono-Italic.otf");
 }
 
 html {width: 100%;}
-body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono Regular';}
+body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono';}
 p {color: #61BC99; font-size: 2vw; line-height: 1.4;}
 a {color: #61BC99; text-decoration: none; border-bottom: 5px solid #6DFCB0;}
 a:hover {color: #61BC99;}
 a:visited {color: #61BC99;}
 h1 {color: #6DFCB0;font-size: 8vw; margin-bottom: 30px; margin-top: 30px;  line-height: 1.1;}
-.author, .author a {color: #6DFCB0;}
+.author, .author a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic';}
 img {max-width: 100%; border: 5px solid #6DFCB0;}
 
 @media only screen 
