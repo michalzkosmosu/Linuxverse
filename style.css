@@ -1,7 +1,7 @@
 html {width: 100%;}
 body {background-color: #000000; padding-left: 2%; padding-right: 2%;}
 p {color: #61BC99; font-size: 2vw;}
-a {color: #61BC99;}
+a {color: #61BC99; text-decoration: none; border-bottom: 3px solid #6DFCB0;}
 a:hover {color: #61BC99;}
 a:visited {color: #61BC99;}
 h1 {color: #6DFCB0;font-size: 8vw;}
