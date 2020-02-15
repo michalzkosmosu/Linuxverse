@@ -7,3 +7,10 @@ a:visited {color: #61BC99;}
 h1 {color: #6DFCB0;font-size: 8vw;}
 .author, .author a {color: #6DFCB0;}
 img {max-width: 100%;}
+
+##mobilne
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+p {color: #61BC99; font-size: 4vw;}
+}
