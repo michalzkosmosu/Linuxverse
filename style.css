@@ -1,6 +1,11 @@
 
 @font-face {font-family: 'IBM Plex Mono'; src: url('/src/fonts/IBMPlexMono-Regular.otf') format('ot');}
 
+@font-face {
+font-family: "IBM Plex Mono";
+src: url("/src/fonts/IBMPlexMono-Regular.otf");
+}
+
 html {width: 100%;}
 body {background-color: #000000; padding-left: 2%; padding-right: 2%;}
 p {color: #61BC99; font-size: 2vw;}
