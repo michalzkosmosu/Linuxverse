@@ -18,7 +18,6 @@ a:visited {color: #61BC99;}
 h1 {color: #6DFCB0;font-size: 8vw; margin-bottom: 30px; margin-top: 30px;  line-height: 1.1;}
 h2 {color: #6DFCB0; font-size: 3vw; margin-bottom: 30px; margin-top: 30px; line-height: 1.1; text-align: center;}
 h3 {color: #6DFCB0; font-size: 2vw; margin-bottom: 30px; margin-top: 60px; line-height: 1.1; text-align: center;}
-.italics, .italics a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic';}
 img {max-width: 100%; border: 5px solid #6DFCB0;}
 em {font-family: 'IBM Plex Mono Italic';}
 
@@ -33,3 +32,5 @@ audio {background-color: #6DFCB0;}
 .reversed {background-color: #6DFCB0; padding: 20px;}
 .reversed p {color: #000000;}
 .reversed a {color: #000000; text-decoration: none; border-bottom: 5px solid #000000;}
+
+.italics, .italics a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic'; margin-bottom: 30px; margin-top: 60px;}
