@@ -33,4 +33,5 @@ audio {background-color: #6DFCB0;}
 .reversed p {color: #000000;}
 .reversed a {color: #000000; text-decoration: none; border-bottom: 5px solid #000000;}
 
-.italics, .italics a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic'; margin-bottom: 30px; margin-top: 60px;}
+.italics, .italics a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic';}
+.meta, .meta a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic'; margin-bottom: 30px; margin-top: 60px;}
