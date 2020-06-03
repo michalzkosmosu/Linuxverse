@@ -10,8 +10,8 @@ src: url("/src/fonts/IBMPlexMono-Italic.otf");
 }
 
 html {width: 100%;}
-body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono';}
-p {color: #61BC99; font-size: 1.4vw; line-height: 1.4; max-width: 1000px; width: 100%; text-align:center;}
+body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono'; text-align:center;}
+p {color: #61BC99; font-size: 1.4vw; line-height: 1.4; max-width: 1000px; width: 100%;}
 a {color: #61BC99; text-decoration: none; border-bottom: 5px solid #6DFCB0;}
 a:hover {color: #61BC99;}
 a:visited {color: #61BC99;}
