@@ -11,7 +11,7 @@ src: url("/src/fonts/IBMPlexMono-Italic.otf");
 
 html {width: 100%;}
 body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono';}
-p {color: #61BC99; font-size: 1.4vw; line-height: 1.4; max-width: 1000px; width: 100%;}
+p {color: #61BC99; font-size: 1.4vw; line-height: 1.4; max-width: 1000px; width: 100%; text-align:center;}
 a {color: #61BC99; text-decoration: none; border-bottom: 5px solid #6DFCB0;}
 a:hover {color: #61BC99;}
 a:visited {color: #61BC99;}
@@ -20,12 +20,6 @@ h2 {color: #6DFCB0; font-size: 3vw; margin-bottom: 30px; margin-top: 30px; line-
 h3 {color: #6DFCB0; font-size: 2vw; margin-bottom: 30px; margin-top: 60px; line-height: 1.1; text-align: center;}
 img {max-width: 100%; border: 5px solid #6DFCB0;}
 em {font-family: 'IBM Plex Mono Italic';}
-
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-p {font-size: 4vw;}
-}
 
 audio {background-color: #6DFCB0;}
 
