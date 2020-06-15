@@ -1,0 +1,31 @@
+
+@font-face {
+font-family: "IBM Plex Mono";
+src: url("/src/fonts/IBMPlexMono-Regular.otf");
+}
+
+@font-face {
+font-family: "IBM Plex Mono Italic";
+src: url("/src/fonts/IBMPlexMono-Italic.otf");
+}
+
+html {width: 100%;}
+body {background-color: #000000; padding-left: 2%; padding-right: 2%; font-family: 'IBM Plex Mono';}
+p {color: #61BC99; font-size: 1.5vw; line-height: 1.6; max-width: 1300px; width: 100%; margin-left: auto; margin-right: auto;}
+a {color: #61BC99; text-decoration: none; border-bottom: 5px solid #6DFCB0;}
+a:hover {color: #61BC99;}
+a:visited {color: #61BC99;}
+h1 {color: #6DFCB0;font-size: 7vw; margin-bottom: 30px; margin-top: 30px;  line-height: 1.1; max-width: 1300px; width: 100%; margin-left: auto; margin-right: auto;}
+h2 {color: #6DFCB0; font-size: 3vw; margin-bottom: 30px; margin-top: 30px; line-height: 1.1; text-align: center;}
+h3 {color: #6DFCB0; font-size: 2vw; margin-bottom: 30px; margin-top: 60px; line-height: 1.1; text-align: center;}
+img {max-width: 100%; border: 5px solid #6DFCB0;}
+em {font-family: 'IBM Plex Mono Italic';}
+
+audio {background-color: #6DFCB0;}
+
+.reversed {background-color: #6DFCB0; padding: 20px;}
+.reversed p {color: #000000;}
+.reversed a {color: #000000; text-decoration: none; border-bottom: 5px solid #000000;}
+
+.italics, .italics a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic';}
+.meta, .meta a {color: #6DFCB0; font-family: 'IBM Plex Mono Italic'; margin-bottom: 30px; margin-top: 60px;}
